@@ -1,6 +1,6 @@
 ---
-title: Kyle Morton
-body_classes: title-center title-h1h2
+title: 'Kyle Morton'
+body_classes: 'title-center title-h1h2'
 ---
 
 # Kyle Morton Says Hello!
